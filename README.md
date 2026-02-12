@@ -1,1 +1,1 @@
-www.aremotemmygroup.com
+www.aremotemmy.com

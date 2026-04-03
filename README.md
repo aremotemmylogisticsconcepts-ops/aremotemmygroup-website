@@ -122,3 +122,25 @@ It is a logistics command system designed to:
 - scale globally
 
 ---
+
+---
+
+👑 CEO Authority Layer
+
+All shipment operations are controlled under a single-authority model.
+
+- No shipment can be executed without CEO approval
+- All requests remain in "PENDING" state until approved
+- CEO has full visibility over all system activity
+
+Approval Flow:
+
+REQUEST CREATED → PENDING → CEO APPROVES → EXECUTION READY
+
+Access Control:
+
+- CEO: Full system access
+- Staff: Request creation only
+- No shared visibility between staff accounts
+
+---
